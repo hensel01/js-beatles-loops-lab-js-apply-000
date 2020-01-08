@@ -11,5 +11,7 @@ function johnLennonFacts() {
   var facts = ["He was the last Beatle to learn to drive", "He was a vegetarian", "He was a choir boy and boyscout", "He hated the sound of his own voice"];
   var newFacts = [];
   var i = 0;
-  while (i < facts.length)
+  while (i < facts.length) {
+    
+  }
 }
