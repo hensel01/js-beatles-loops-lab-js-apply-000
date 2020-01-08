@@ -8,5 +8,5 @@ allplayers.push(players[i] + " plays " + instruments[i]);
 return allPlayers; 
 }
 function johnLennonFacts() {
-  var facts = ["He was the last Beatle to "]
+  var facts = ["He was the last Beatle to learn to drive"]
 }
