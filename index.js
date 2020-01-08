@@ -7,4 +7,6 @@ allplayers.push(players[i] + " plays " + instruments[i]);
 }
 return allPlayers; 
 }
-function johnLennonFacts() 
+function johnLennonFacts() {
+  
+}
