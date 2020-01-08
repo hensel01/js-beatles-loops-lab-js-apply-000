@@ -8,5 +8,5 @@ allplayers.push(players[i] + " plays " + instruments[i]);
 return allPlayers; 
 }
 function johnLennonFacts() {
-  var facts = [ ]
+  var facts = ["He "]
 }
