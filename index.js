@@ -15,4 +15,4 @@ function johnLennonFacts() {
     newFacts.push(facts[i] +"!!!");
     num++;
   } while (num < 15);
-}
+
